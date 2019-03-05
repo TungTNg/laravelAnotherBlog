@@ -14,6 +14,7 @@
             <li class="active"><a href="/laravelAnotherBlog">Home</a></li>
             <li><a href="/laravelAnotherBlog/about">About</a></li>
             <li><a href="/laravelAnotherBlog/services">Services</a></li>
+            <li><a href="/laravelAnotherBlog/posts">Blog</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
