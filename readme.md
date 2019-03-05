@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+# laravelAnotherBlog Project
+
+This project was generated with:
+* MVC PHP Framework: [Laravel](https://laravel.com/docs/5.5/releases) version 5.5.
+
+Live demo of the whole project: [https://tungthecoder.com/laravelAnotherBlog/](https://tungthecoder.com/laravelAnotherBlog/)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
