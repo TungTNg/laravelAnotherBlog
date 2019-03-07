@@ -10,7 +10,13 @@
     <body>
         @include('inc.navbar')
         <div class="container">
-        @yield('content')
+            @include('inc.messages')
+            @yield('content')
         </div>
+        
+    <script src="/laravelAnotherBlog/vendor/unisharp/laravel-ckeditor/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace( 'article-ckeditor' );
+    </script>
     </body>
 </html>

@@ -16,6 +16,9 @@
             <li><a href="/laravelAnotherBlog/services">Services</a></li>
             <li><a href="/laravelAnotherBlog/posts">Blog</a></li>
           </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/laravelAnotherBlog/posts/create">Create Post</a></li>
+          </ul>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
