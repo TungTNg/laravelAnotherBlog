@@ -3,6 +3,8 @@
 @section('content')
     <a href="/laravelAnotherBlog/posts" class="btn btn-default">Go Back</a>
     <h1>{{$post->title}}</h1>
+    <img class="center-block" style="width: 50%" src="/laravelAnotherBlog/public/storage/cover_images/{{ $post->cover_image}}">
+    <br><br>
     <div>
         {!!$post->body!!}
     </div>
