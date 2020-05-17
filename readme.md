@@ -12,7 +12,7 @@
 This project was generated with:
 * MVC PHP Framework: [Laravel](https://laravel.com/docs/5.5/releases) version 5.5.
 
-Live demo of the whole project: [https://tungthecoder.com/laravelAnotherBlog/](https://tungthecoder.com/laravelAnotherBlog/)
+Live demo of the whole project: [https://tungthecoder.dev/laravelAnotherBlog/](https://tungthecoder.dev/laravelAnotherBlog/)
 
 ## About Laravel
 
